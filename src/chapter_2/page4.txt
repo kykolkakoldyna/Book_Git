@@ -1,0 +1,3 @@
+In the 1950s and 1960s, computer science progressed rapidly. This swift evolution sparked the beginnings of a production framework that eventually grew into the SDLC we know today.
+
+Prior to the 1950s, computing was not elaborate enough to necessitate a detailed approach like the SDLC. As the 
